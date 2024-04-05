@@ -1,5 +1,5 @@
 # ColorSnap
-ColorSnap is an AR Game done with Unity.
+ColorSnap is an AR Game done with Unity where you need to find the correct color pieces to be able to fit the puzzle piece.
 
 
 ## How to run this project on Unity:
